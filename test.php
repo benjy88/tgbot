@@ -59,6 +59,7 @@ $telegram = new Api($botToken);
 
 //exit;
 
+echo 'Starting bot... '."\n\n";
 
 $lastOffset = 0;
 
